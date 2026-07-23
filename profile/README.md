@@ -4,7 +4,7 @@
 
 **Engineering the systems that businesses are built on.**
 
-*Enterprise Software · Cloud Architecture · Digital Innovation*
+*Enterprise Software · Hardware & Integrated Systems · Cloud Architecture · Digital Innovation*
 
 </div>
 
